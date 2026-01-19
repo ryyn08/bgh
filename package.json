@@ -1,0 +1,28 @@
+{
+  "name": "ryyn-MD",
+  "version": "3.0",
+  "description": "ryyn Bot Using Baileys",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ryyn tamvan",
+  "license": "HS",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@bochilteam/scraper": "4.0.22-alpha.0",
+    "@google/generative-ai": "^0.24.0",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "npm:jagproject",
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "file-type": "^16.5.3",
+    "fs-extra": "^10.0.0",
+    "moment-timezone": "^0.5.34",
+    "pino": "^8.14.0",
+    "qrcode-terminal": "^0.12.0",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
